@@ -26,6 +26,11 @@ or send/receive messages using SharedWorker.
 Using Github Actions to automate cargo build for multiple binaries and create tags.  
 :pushpin: `Github Actions` `rust`
 
+- [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)  
+Mapbox GL JS v2 experiment. No React.  
+:pushpin: `Mapbox GL JS v2` `Tailwind CSS` `ramda`  
+[demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
+
 <!--
 **minagawah/minagawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
