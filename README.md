@@ -8,10 +8,17 @@ If you are only interested only in "perlin noise", you may find
 or its [demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/) for auto-generating landscapes.
 Or, in [another old project](https://github.com/minagawah/rust-perlin-wasm-test-2),
 just to watch floating particles [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/).  
-:pushpin: `rust` `wasm-pack` `wasm-bindgen` `js-sys` `web-sys` `Perlin Noise`
+:pushpin: `rust` `wasm-pack` `wasm-bindgen` `js-sys` `web-sys` `Perlin Noise`  
+[demo](http://tokyo800.jp/mina/perlin-experiment/)  
 - [wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)  
-React app calling WASM to convert markdown texts into HTML (using [comrak](https://crates.io/crates/comrak)).  
+A React app calling WASM to convert markdown texts into HTML (using [comrak](https://crates.io/crates/comrak)).  
 :pushpin: `rust` `wasm-pack` `wasm-bindgen` `React` `CRA` `markdown`
+- [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
+Bundling a React app into an UMD library, and embedding it in another project.  
+You can pass arguments for initial configurations,
+or send/receive messages using SharedWorker.  
+:pushpin: `React` `UMD library` `SharedWorker`  
+[demo](http://tokyo800.jp/mina/react-widget-airport/)
 
 <!--
 **minagawah/minagawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
