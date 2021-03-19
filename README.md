@@ -22,6 +22,10 @@ or send/receive messages using SharedWorker.
 :pushpin: `React` `UMD library` `SharedWorker`  
 [demo](http://tokyo800.jp/mina/react-widget-airport/)
 
+- [reveal-yourself](https://github.com/minagawah/reveal-yourself)  
+Using Github Actions to automate cargo build for multiple binaries and create tags.  
+:pushpin: `Github Actions` `rust`
+
 <!--
 **minagawah/minagawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
