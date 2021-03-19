@@ -31,6 +31,10 @@ Mapbox GL JS v2 experiment. No React.
 :pushpin: `Mapbox GL JS v2` `Tailwind CSS` `ramda`  
 [demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
 
+- [yew-example-mount-to-speific-dom](https://github.com/minagawah/yew-example-mount-to-speific-dom)  
+Yew app example which mounts to a specified DOM element.  
+:pushpin: `rust` `yew`  `wasm-pack-plugin`
+
 <!--
 **minagawah/minagawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
