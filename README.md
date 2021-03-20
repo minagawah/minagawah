@@ -14,7 +14,7 @@ for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust
 A React app using WASM for converting markdown contents into HTML.  
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
 
-- [solid-setup-2021](https://github.com/minagawah/solid-setup-2021)  
+[solid-setup-2021](https://github.com/minagawah/solid-setup-2021)  
 A template for Solid.js projects. Always nice to have Tailwind.  
 Basically, this is for my own use...  
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
