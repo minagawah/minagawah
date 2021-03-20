@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - [perlin-experiment](https://github.com/minagawah/perlin-experiment)
-- ([View Demo](http://tokyo800.jp/mina/perlin-experiment/))  
+([View Demo](http://tokyo800.jp/mina/perlin-experiment/))  
 A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.  
 If you are interested in what Perlin Noise can do,  
 I have [a very old JS project](https://github.com/minagawah/perlin-noise-worldmap)
