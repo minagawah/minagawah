@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
+I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
+
+[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)  
+A React app using WASM for converting markdown contents into HTML.  
+:pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
+
 [perlin-experiment](https://github.com/minagawah/perlin-experiment)  
 A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.  
 If you are just interested in what Perlin Noise can do,  
@@ -9,15 +16,6 @@ or [another old sample](https://github.com/minagawah/rust-perlin-wasm-test-2)
 for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [View Demo](http://tokyo800.jp/mina/perlin-experiment/)
-
-[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)  
-A React app using WASM for converting markdown contents into HTML.  
-:pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
-
-[solid-setup-2021](https://github.com/minagawah/solid-setup-2021)  
-A template for Solid.js projects. Always nice to have Tailwind.  
-Basically, this is for my own use...  
-:pushpin: `Solid.js` &middot; `Tailwind CSS`
 
 [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
 Bundling a React app into UMD library, embedded into another app.  
@@ -29,6 +27,11 @@ or you can dynamically send/receive messages using SharedWorker.
 [reveal-yourself](https://github.com/minagawah/reveal-yourself)  
 An example using Github Actions to automate cargo build for multiple binaries.  
 :pushpin: `Github Actions` &middot; `rust`
+
+[solid-setup-2021](https://github.com/minagawah/solid-setup-2021)  
+A template for Solid.js projects. Always nice to have Tailwind.  
+Basically, this is for my own use...  
+:pushpin: `Solid.js` &middot; `Tailwind CSS`
 
 [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)  
 Mapbox GL JS v2 experiment. Using no React.  
