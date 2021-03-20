@@ -1,26 +1,26 @@
 ### Hi there 👋
 
 - [perlin-experiment](https://github.com/minagawah/perlin-experiment)  
-Using `wasm-pack` to bind an ordinary Webpack project with a WASM app.
-For 2 divs in HTML, the WASM app creates canvas elements, and runs animations.
-If you are only interested only in "perlin noise", you may find
+Using `wasm-pack` to bind a Webpack project with a WASM app.
+For 2 divs in HTML, WASM app creates canvas elements, and runs animations.
+If you are interested only in "perlin noise", you may find
 [this old JS project](https://github.com/minagawah/perlin-noise-worldmap) of mine interesting,
 or its [demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/) for auto-generating landscapes.
 Or, in [another old project](https://github.com/minagawah/rust-perlin-wasm-test-2),
 just to watch floating particles [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/).  
 :pushpin: `rust` `wasm-pack` `wasm-bindgen` `js-sys` `web-sys` `Perlin Noise`  
-[demo](http://tokyo800.jp/mina/perlin-experiment/)  
+[View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 
 - [wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)  
 A React app calling WASM to convert markdown texts into HTML (using [comrak](https://crates.io/crates/comrak)).  
 :pushpin: `rust` `wasm-pack` `wasm-bindgen` `React` `CRA` `markdown`
 
 - [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
-Bundling a React app into an UMD library, and embedding it in another project.  
-You can pass arguments for initial configurations,
-or send/receive messages using SharedWorker.  
+Bundling a React app into an UMD library, and embedding into another project.  
+You can pass arguments statically for initial configurations,
+or send/receive messages using SharedWorker for dynamic configurations.  
 :pushpin: `React` `UMD library` `SharedWorker`  
-[demo](http://tokyo800.jp/mina/react-widget-airport/)
+[View Demo](http://tokyo800.jp/mina/react-widget-airport/)
 
 - [reveal-yourself](https://github.com/minagawah/reveal-yourself)  
 Using Github Actions to automate cargo build for multiple binaries and create tags.  
@@ -29,10 +29,10 @@ Using Github Actions to automate cargo build for multiple binaries and create ta
 - [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)  
 Mapbox GL JS v2 experiment. No React.  
 :pushpin: `Mapbox GL JS v2` `Tailwind CSS` `ramda`  
-[demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
+[View Demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
 
 - [yew-example-mount-to-speific-dom](https://github.com/minagawah/yew-example-mount-to-speific-dom)  
-Yew app example which mounts to a specified DOM element.  
+Yew app mounts to a specified DOM.  
 :pushpin: `rust` `yew`  `wasm-pack-plugin`
 
 <!--
