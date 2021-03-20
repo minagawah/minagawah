@@ -14,6 +14,11 @@ for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust
 A React app using WASM for converting markdown texts into HTML.  
 :pushpin: `rust` `wasm-pack` `wasm-bindgen` `React` `CRA` `markdown`
 
+- [solid-setup-2021](https://github.com/minagawah/solid-setup-2021)  
+A template for Solid.js projects. Always nice to have TailwindCSS.  
+Basically, this is for my own use...  
+:pushpin: `Solid.js` `Tailwind CSS`
+
 - [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
 Building a React app into UMD library to be embedded into another app.  
 You can pass arguments statically at the startup,  
