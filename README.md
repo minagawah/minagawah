@@ -3,9 +3,9 @@
 - [perlin-experiment](https://github.com/minagawah/perlin-experiment)  
 A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.  
 If you are interested in what Perlin Noise can do,  
-I have [a very old JS project](https://github.com/minagawah/perlin-noise-worldmap)
+I have [an old JS sample](https://github.com/minagawah/perlin-noise-worldmap)
 which auto-generates geographic landscape ([demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)),  
-or [another very old project](https://github.com/minagawah/rust-perlin-wasm-test-2)
+or [another old sample](https://github.com/minagawah/rust-perlin-wasm-test-2)
 for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
 :pushpin: `rust` `wasm-pack` `wasm-bindgen` `js-sys` `web-sys` `Perlin Noise`  
 [View Demo](http://tokyo800.jp/mina/perlin-experiment/)
