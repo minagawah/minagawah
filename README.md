@@ -8,7 +8,7 @@ A React app using WASM for converting markdown contents into HTML.
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
 
 [perlin-experiment](https://github.com/minagawah/perlin-experiment)  
-([view demo](http://tokyo800.jp/mina/perlin-experiment/))  
+[:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.  
 If you are just interested in what Perlin Noise can do,  
 I have an [old JS sample](https://github.com/minagawah/perlin-noise-worldmap)
@@ -18,7 +18,7 @@ for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 
 [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
-([view demo](http://tokyo800.jp/mina/react-widget-airport/))  
+[:eyes: View Demo](http://tokyo800.jp/mina/react-widget-airport/)  
 Bundling a React app into UMD library, embedded into another app.  
 You can pass arguments at initial startup,  
 or you can dynamically send/receive messages using SharedWorker.  
@@ -34,7 +34,7 @@ Basically, this is for my own use...
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
 
 [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)  
-([view demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/))  
+[:eyes: View Demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)  
 Mapbox GL JS v2 experiment. Using no React.  
 :pushpin: `Mapbox GL JS v2` &middot; `Tailwind CSS` &middot; `ramda`  
 
@@ -48,7 +48,7 @@ Although I have more complicated configurations for my own website, ideas are ab
 :pushpin: `actix-web` &middot; `rust` &middot; `heroku-buildpack-rust` &middot; `CORS`
 
 [webpack-webcomponent-example](https://github.com/minagawah/webpack-webcomponent-example)  
-([view demo](http://tokyo800.jp/minagawah/webpack-webcomponent-example/))  
+[:eyes: View Demo](http://tokyo800.jp/minagawah/webpack-webcomponent-example/)  
 While this is old, it presents 3 basic examples of how you can implement web components.  
 :pushpin: `Web Components`  
 
