@@ -39,6 +39,11 @@ Mapbox GL JS v2 experiment. Using no React.
 Yew app mounts to an existing DOM element.  
 :pushpin: `yew` `wasm-pack-plugin`
 
+- [webpack-webcomponent-example](https://github.com/minagawah/webpack-webcomponent-example)  
+While this is old, it presents 3 basic examples of how you can implement web components.  
+:pushpin: `Web Components`  
+[View Demo](http://tokyo800.jp/minagawah/webpack-webcomponent-example/)
+
 <!--
 **minagawah/minagawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
