@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [perlin-experiment](https://github.com/minagawah/perlin-experiment)
+- [perlin-experiment](https://github.com/minagawah/perlin-experiment)  
 A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.  
 If you are interested in what Perlin Noise can do,  
 I have [a very old JS project](https://github.com/minagawah/perlin-noise-worldmap)
@@ -14,7 +14,7 @@ for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust
 A React app calling WASM to convert markdown texts into HTML (using [comrak](https://crates.io/crates/comrak)).  
 :pushpin: `rust` `wasm-pack` `wasm-bindgen` `React` `CRA` `markdown`
 
-- [react-widget-airport](https://github.com/minagawah/react-widget-airport)
+- [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
 Bundling a React app into an UMD library, and embedding into another project.  
 You can pass arguments statically for initial configurations,
 or send/receive messages using SharedWorker for dynamic configurations.  
@@ -25,7 +25,7 @@ or send/receive messages using SharedWorker for dynamic configurations.
 Using Github Actions to automate cargo build for multiple binaries and create tags.  
 :pushpin: `Github Actions` `rust`
 
-- [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)
+- [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)  
 Mapbox GL JS v2 experiment. No React.  
 :pushpin: `Mapbox GL JS v2` `Tailwind CSS` `ramda`  
 [View Demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
