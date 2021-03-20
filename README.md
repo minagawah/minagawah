@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 - [perlin-experiment](https://github.com/minagawah/perlin-experiment)  
-Using `wasm-pack` to bind a Webpack project with a WASM app.
-For 2 divs in HTML, WASM app creates canvas elements, and runs animations.
-If you are interested only in "perlin noise", you may find
-[this old JS project](https://github.com/minagawah/perlin-noise-worldmap) of mine interesting,
-or its [demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/) for auto-generating landscapes.
-Or, in [another old project](https://github.com/minagawah/rust-perlin-wasm-test-2),
-just to watch floating particles [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/).  
+A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.  
+If you are interested in what Perlin Noise can do,  
+I have a [very old JS project](https://github.com/minagawah/perlin-noise-worldmap)
+which auto-generates geographic landscape ([demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)),  
+or, [another Rust project](https://github.com/minagawah/rust-perlin-wasm-test-2)
+(which is very old as well) for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
 :pushpin: `rust` `wasm-pack` `wasm-bindgen` `js-sys` `web-sys` `Perlin Noise`  
 [View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 
