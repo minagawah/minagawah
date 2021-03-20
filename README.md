@@ -40,8 +40,8 @@ Yew app mounts to an existing DOM element.
 :pushpin: `yew` `wasm-pack-plugin`
 
 - [mini-actix-react-example](https://github.com/minagawah/mini-actix-react-example)  
-[actix-web](https://actix.rs/) is an amazing, and fast Rust web framework.  
-Although I have more complicated configurations for my own website, the ideas are about the same.  
+[actix-web](https://actix.rs/) is an amazing, fast Rust web framework.  
+Although I have more complicated configurations for my own website, ideas are about the same.  
 :pushpin: `actix-web` `rust` `heroku-buildpack-rust` `CORS`
 
 - [webpack-webcomponent-example](https://github.com/minagawah/webpack-webcomponent-example)  
