@@ -17,6 +17,11 @@ for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)
 
+[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)  
+A template for `yew` projects.  
+This is basically for my own use...  
+:pushpin: `yew` &middot; `rust`
+
 [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
 Bundling a React app into UMD library, embedded into another app.  
 You can pass arguments at initial startup,  
@@ -24,20 +29,20 @@ or you can dynamically send/receive messages using SharedWorker.
 :pushpin: `React` &middot; `UMD library` &middot; `SharedWorker`  
 [:eyes: View Demo](http://tokyo800.jp/mina/react-widget-airport/)
 
-[reveal-yourself](https://github.com/minagawah/reveal-yourself)  
-An example using Github Actions to automate cargo build for multiple binaries.  
-:pushpin: `Github Actions` &middot; `rust`
-
 [solid-setup-2021](https://github.com/minagawah/solid-setup-2021)  
 A template for Solid.js projects. Always nice to have Tailwind.  
 Basically, this is for my own use...  
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
 
+[reveal-yourself](https://github.com/minagawah/reveal-yourself)  
+An example using Github Actions to automate cargo build for multiple binaries.  
+:pushpin: `Github Actions` &middot; `rust`
+
+
 [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)  
 Mapbox GL JS v2 experiment. Using no React.  
 :pushpin: `Mapbox GL JS v2` &middot; `Tailwind CSS` &middot; `ramda`  
 [:eyes: View Demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
-
 [yew-example-mount-to-speific-dom](https://github.com/minagawah/yew-example-mount-to-speific-dom)  
 Yew app mounts to an existing DOM element.  
 :pushpin: `yew` &middot; `wasm-pack-plugin`
