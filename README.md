@@ -3,6 +3,14 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)  
+A template for `yew` projects. This is basically for my own use...  
+I still need to make the app bound to a specific DOM in HTML.  
+[I did that in the past](https://github.com/minagawah/yew-example-mount-to-speific-dom)
+in case you are interested.  
+:pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
+[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)
+
 [wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)  
 A React app using WASM for converting markdown contents into HTML.  
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
@@ -16,14 +24,6 @@ or [another old sample](https://github.com/minagawah/rust-perlin-wasm-test-2)
 for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)
-
-[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)  
-A template for `yew` projects. This is basically for my own use...  
-I still need to make the app bound to a specific DOM in HTML.  
-[I did that in the past](https://github.com/minagawah/yew-example-mount-to-speific-dom)
-in case you are interested.  
-:pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
-[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)
 
 [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
 Bundling a React app into UMD library, embedded into another app.  
