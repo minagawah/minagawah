@@ -22,7 +22,8 @@ A template for `yew` projects. This is basically for my own use...
 I still need to make the app bound to a specific DOM in HTML.  
 [I did that in the past](https://github.com/minagawah/yew-example-mount-to-speific-dom)
 in case you are interested.  
-:pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`
+:pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
+[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)
 
 [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
 Bundling a React app into UMD library, embedded into another app.  
