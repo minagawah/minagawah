@@ -18,9 +18,11 @@ for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)
 
 [yew-setup-2021](https://github.com/minagawah/yew-setup-2021)  
-A template for `yew` projects.  
-This is basically for my own use...  
-:pushpin: `yew` &middot; `rust`
+A template for `yew` projects. This is basically for my own use...  
+I still need to make the app bound to a specific DOM in HTML.  
+[I did that in the past](https://github.com/minagawah/yew-example-mount-to-speific-dom)
+in case you are interested.  
+:pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`
 
 [react-widget-airport](https://github.com/minagawah/react-widget-airport)  
 Bundling a React app into UMD library, embedded into another app.  
@@ -38,14 +40,10 @@ Basically, this is for my own use...
 An example using Github Actions to automate cargo build for multiple binaries.  
 :pushpin: `Github Actions` &middot; `rust`
 
-
 [mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)  
 Mapbox GL JS v2 experiment. Using no React.  
 :pushpin: `Mapbox GL JS v2` &middot; `Tailwind CSS` &middot; `ramda`  
 [:eyes: View Demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
-[yew-example-mount-to-speific-dom](https://github.com/minagawah/yew-example-mount-to-speific-dom)  
-Yew app mounts to an existing DOM element.  
-:pushpin: `yew` &middot; `wasm-pack-plugin`
 
 [mini-actix-react-example](https://github.com/minagawah/mini-actix-react-example)  
 [actix-web](https://actix.rs/) is an amazing, fast Rust web framework.  
