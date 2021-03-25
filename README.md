@@ -4,10 +4,7 @@ Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts 
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
 [yew-setup-2021](https://github.com/minagawah/yew-setup-2021)  
-A template for `yew` projects. This is basically for my own use...  
-I still need to make the app bound to a specific DOM in HTML.  
-[I did that in the past](https://github.com/minagawah/yew-example-mount-to-speific-dom)
-in case you are interested.  
+A template for `yew` projects. This is basically for my own use.  
 :pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
 [:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)
 
