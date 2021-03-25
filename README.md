@@ -14,6 +14,9 @@ A React app using WASM for converting markdown contents into HTML.
 
 [perlin-experiment](https://github.com/minagawah/perlin-experiment)  
 A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.  
+From JS, you pass initial configurations for each animation.  
+The WASM app is one, but handles 2 canvas elements.  
+You can click on the upper canvas to change the visualization modes.  
 If you are just interested in what Perlin Noise can do,  
 I have an [old JS sample](https://github.com/minagawah/perlin-noise-worldmap)
 which auto-generates geographic landscape ([demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)),  
