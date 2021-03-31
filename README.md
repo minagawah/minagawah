@@ -5,8 +5,8 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
 A template for `yew` projects. This is basically for my own use.  
+[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)   
 :pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
-[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)
 
 **[perlin-experiment](https://github.com/minagawah/perlin-experiment)**  
 A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.
@@ -18,20 +18,20 @@ I have an [old JS sample](https://github.com/minagawah/perlin-noise-worldmap)
 which auto-generates geographic landscape ([demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)),
 or [another old sample](https://github.com/minagawah/rust-perlin-wasm-test-2)
 for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
+[:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
-[:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)
 
 **[react-widget-airport](https://github.com/minagawah/react-widget-airport)**  
 Bundling a React app into UMD library, embedded into another app.
 You can pass arguments at initial startup,
 or you can dynamically send/receive messages using SharedWorker.  
+[:eyes: View Demo](http://tokyo800.jp/mina/react-widget-airport/)  
 :pushpin: `React` &middot; `UMD library` &middot; `SharedWorker`  
-[:eyes: View Demo](http://tokyo800.jp/mina/react-widget-airport/)
 
 **[react-widget-setup-2021](https://github.com/minagawah/react-widget-setup-2021)**  
 Just like the above "react-widget-airport", but much, much simpler!  
+[:eyes: View Demo](http://tokyo800.jp/mina/react-widget-setup-2021/)  
 :pushpin: `React` &middot; `UMD library` &middot; `SharedWorker`  
-[:eyes: View Demo](http://tokyo800.jp/mina/react-widget-setup-2021/)
 
 **[solid-setup-2021](https://github.com/minagawah/solid-setup-2021)**  
 A template for Solid.js projects. Always nice to have Tailwind.
@@ -48,8 +48,8 @@ An example using Github Actions to automate cargo build for multiple binaries.
 
 **[mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)**  
 Mapbox GL JS v2 experiment. Using no React.  
+[:eyes: View Demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)  
 :pushpin: `Mapbox GL JS v2` &middot; `Tailwind CSS` &middot; `ramda`  
-[:eyes: View Demo](http://tokyo800.jp/mina/mapbox-gl-js-v2-experiment/)
 
 **[mini-actix-react-example](https://github.com/minagawah/mini-actix-react-example)**  
 [actix-web](https://actix.rs/) is an amazing, fast Rust web framework.
@@ -58,8 +58,8 @@ Although I have more complicated configurations for my own website, ideas are ab
 
 **[webpack-webcomponent-example](https://github.com/minagawah/webpack-webcomponent-example)**  
 While this is old, it presents 3 basic examples of how you can implement web components.  
+[:eyes: View Demo](http://tokyo800.jp/minagawah/webpack-webcomponent-example/)  
 :pushpin: `Web Components`  
-[:eyes: View Demo](http://tokyo800.jp/minagawah/webpack-webcomponent-example/)
 
 **[ts-setup-2021-library](https://github.com/minagawah/ts-setup-2021-library)**  
 The latest TypeScript project template. Basically, for my own use.
