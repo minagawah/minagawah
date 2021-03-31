@@ -21,10 +21,6 @@ for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)
 
-**[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)**  
-A React app using WASM for converting markdown contents into HTML.  
-:pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
-
 **[react-widget-airport](https://github.com/minagawah/react-widget-airport)**  
 Bundling a React app into UMD library, embedded into another app.
 You can pass arguments at initial startup,
@@ -41,6 +37,10 @@ Just like the above "react-widget-airport", but much, much simpler!
 A template for Solid.js projects. Always nice to have Tailwind.
 Basically, this is for my own use...  
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
+
+**[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)**  
+A React app using WASM for converting markdown contents into HTML.  
+:pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
 
 **[reveal-yourself](https://github.com/minagawah/reveal-yourself)**  
 An example using Github Actions to automate cargo build for multiple binaries.  
