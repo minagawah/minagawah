@@ -46,6 +46,10 @@ A React app using WASM for converting markdown contents into HTML.
 An example using Github Actions to automate cargo build for multiple binaries.  
 :pushpin: `Github Actions` &middot; `rust`
 
+**[csp-nonce-for-emotion.md](https://gist.github.com/minagawah/bc56b1dae8e3a967788c255a1032d1ae)**  
+Tricks to insert "nonce" for style tags in your HTML when using `csp-html-webpack-plugin` and `emotion`.  
+:pushpin: `csp-html-webpack-plugin` &middot; `emotion`
+
 **[mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)**  
 Mapbox GL JS v2 experiment. Using no React.  
 :pushpin: `Mapbox GL JS v2` &middot; `Tailwind CSS` &middot; `ramda`  
