@@ -40,6 +40,10 @@ A template for Solid.js projects. Always nice to have Tailwind.
 Basically, this is for my own use...  
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
 
+**[Why I hate TypeScript](https://github.com/minagawah/ts-setup-2021-library/#-why-typescript)**  
+JS is great without static types.  
+:pushpin: `TypeScript`
+
 **[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)**  
 A React app using WASM for converting markdown contents into HTML.  
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
