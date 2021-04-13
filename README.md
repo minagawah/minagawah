@@ -9,14 +9,14 @@ A template for `yew` projects. This is basically for my own use.
 [:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)   
 
 **[perlin-experiment](https://github.com/minagawah/perlin-experiment)**  
-A WASM app using `wasm-pack` to create canvas elements for 2 divs in HTML page, and runs animations.
-From JS, you pass initial configurations for each animation.
+This WASM app creates create canvas elements for 2 divs, and runs animations.
 The WASM app is one, but handles 2 canvas elements.
-Click the canvas to toggle the visualization modes.
-If you are just interested in what Perlin Noise can do,
-I have an [old JS sample](https://github.com/minagawah/perlin-noise-worldmap)
-which auto-generates geographic landscape ([demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)),
-or [another old sample](https://github.com/minagawah/rust-perlin-wasm-test-2)
+Clicking the upper canvas, you may toggle 3 visualization modes.
+You may pass configs at initial startup.
+If you are only interested in Perlin Noise,
+I have a JS project [perlin-noise-world-map](https://github.com/minagawah/perlin-noise-worldmap) (old)
+which auto-generates geographic landscapes ([demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)).
+Or, visit [rust-perlin-wasm-test-2](https://github.com/minagawah/rust-perlin-wasm-test-2) (very old)
 for particles moving in organic manner ([demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
