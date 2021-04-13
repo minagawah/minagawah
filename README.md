@@ -23,6 +23,10 @@ or [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).
 :pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 
+**[Why I hate TypeScript](https://github.com/minagawah/ts-setup-2021-library/#-why-typescript)**  
+JS is great without static types.  
+:pushpin: `TypeScript`
+
 **[react-widget-airport](https://github.com/minagawah/react-widget-airport)**  
 Bundling a React app into UMD library, embedded into another app.
 You can pass arguments at initial startup,
@@ -39,10 +43,6 @@ Just like the above `react-widget-airport`, but much simpler!
 A template for Solid.js projects. Always nice to have Tailwind.
 Basically, this is for my own use...  
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
-
-**[Why I hate TypeScript](https://github.com/minagawah/ts-setup-2021-library/#-why-typescript)**  
-JS is great without static types.  
-:pushpin: `TypeScript`
 
 **[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)**  
 A React app using WASM for converting markdown contents into HTML.  
