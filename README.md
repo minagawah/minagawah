@@ -3,10 +3,9 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
-**[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
+**[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)** [:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)  
 A template for `yew` projects. This is basically for my own use.  
 :pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
-[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)   
 
 **[perlin-experiment](https://github.com/minagawah/perlin-experiment)**  
 This WASM app creates canvas elements for 2 divs, and runs animations.
