@@ -11,8 +11,8 @@ A template for `yew` projects. This is basically for my own use.
 **[perlin-experiment](https://github.com/minagawah/perlin-experiment)**  
 This WASM app creates create canvas elements for 2 divs, and runs animations.
 The WASM app is one, but handles 2 canvas elements.
-Clicking the upper canvas, you may toggle 3 visualization modes.
 You may pass configs at initial startup.
+Clicking the upper canvas, you may toggle among 3 visualization modes.
 If you are only interested in Perlin Noise,
 I have a JS project [perlin-noise-world-map](https://github.com/minagawah/perlin-noise-worldmap) (old)
 which auto-generates geographic landscapes ([demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)).
