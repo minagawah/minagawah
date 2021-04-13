@@ -9,7 +9,7 @@ A template for `yew` projects. This is basically for my own use.
 [:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)   
 
 **[perlin-experiment](https://github.com/minagawah/perlin-experiment)**  
-This WASM app creates create canvas elements for 2 divs, and runs animations.
+This WASM app creates canvas elements for 2 divs, and runs animations.
 The WASM app is one, but handles 2 canvas elements.
 You may pass configs at initial startup.
 Clicking the upper canvas, you may toggle among 3 visualization modes.
