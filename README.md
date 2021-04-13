@@ -71,11 +71,6 @@ While this is old, it presents 3 basic examples of how you can implement web com
 :pushpin: `Web Components`  
 [:eyes: View Demo](http://tokyo800.jp/minagawah/webpack-webcomponent-example/)  
 
-**[ts-setup-2021-library](https://github.com/minagawah/ts-setup-2021-library)**  
-The latest TypeScript project template. Basically, for my own use.
-While I mention in the description, I love and hate TypeScript.  
-:pushpin: `TypeScript` &middot; `Babel 7`
-
 <!--
 **minagawah/minagawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
