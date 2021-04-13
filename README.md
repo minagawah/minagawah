@@ -31,7 +31,7 @@ or you can dynamically send/receive messages using SharedWorker.
 [:eyes: View Demo](http://tokyo800.jp/mina/react-widget-airport/)  
 
 **[react-widget-setup-2021](https://github.com/minagawah/react-widget-setup-2021)**  
-Just like the above "react-widget-airport", but much, much simpler!  
+Just like the above `react-widget-airport`, but much simpler!  
 :pushpin: `React` &middot; `UMD library` &middot; `SharedWorker`  
 [:eyes: View Demo](http://tokyo800.jp/mina/react-widget-setup-2021/)  
 
