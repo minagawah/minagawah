@@ -3,6 +3,11 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
+A demo app using Service Worker.  
+:pushpin: `Serrvice Worker` &middot; `Client API` &middot; `Cache API` &middot; `Vue 2`  
+[:eyes: View Demo](https://tokyo800.sakura.ne.jp/mina/sw/)  
+
 **[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
 A template for `yew` projects. This is basically for my own use.  
 :pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
