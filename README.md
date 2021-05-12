@@ -4,7 +4,7 @@ Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts 
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
-A demo app using Service Worker.  
+Worker is a powerful tool to make your app great. Yet, when implementing the related Web APIs, it can easily drive you into a rabbit hole. This sample tries to attempts to demonstrate how you can implement Workers.  
 :pushpin: `Serrvice Worker` &middot; `Client API` &middot; `Cache API` &middot; `Vue 2`  
 [:eyes: View Demo](https://tokyo800.sakura.ne.jp/mina/sw/)  
 
