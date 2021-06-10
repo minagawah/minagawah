@@ -4,8 +4,8 @@ Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts 
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
 **[mikaboshi](https://github.com/minagawah/mikaboshi)**  
-**STILL UNDER DEVELOPMENT**
 An astronomical library to calculate sun and moon orbits.  
+STILL UNDER DEVELOPMENT  
 :pushpin: `rust`
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
