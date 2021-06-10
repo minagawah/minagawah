@@ -5,8 +5,8 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[mikaboshi](https://github.com/minagawah/mikaboshi)**  
 An astronomical library to calculate sun and moon orbits.  
-STILL UNDER DEVELOPMENT  
-:pushpin: `rust`
+_STILL UNDER DEVELOPMENT_  
+:pushpin: `Rust`
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
 Worker is a powerful tool, but when implementing the related Web APIs, it can easily drive you into a rabbit hole. This sample app attempts to demonstrate how you can implement related APIs for Workers.  
@@ -15,7 +15,7 @@ Worker is a powerful tool, but when implementing the related Web APIs, it can ea
 
 **[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
 A template for `yew` projects. This is basically for my own use.  
-:pushpin: `yew` &middot; `rust` &middot; `wasm-pack-plugin`  
+:pushpin: `yew` &middot; `Rust` &middot; `wasm-pack-plugin`  
 [:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)  
 
 **[perlin-experiment](https://github.com/minagawah/perlin-experiment)**  
@@ -30,7 +30,7 @@ or [demo](http://tokyo800.jp/minagawah/perlin-noise-worldmap/)).
 Or, see `rust-perlin-wasm-test-2` (which is even much older) for particles moving in organic manner
 ([source](https://github.com/minagawah/rust-perlin-wasm-test-2)
 or [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
-:pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 
 **[Why I hate TypeScript](https://github.com/minagawah/ts-setup-2021-library/#-why-typescript)**  
@@ -56,7 +56,7 @@ Basically, this is for my own use...
 
 **[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)**  
 A React app using WASM for converting markdown contents into HTML.  
-:pushpin: `rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `React` &middot; `CRA` &middot; `markdown`
 
 **[reveal-yourself](https://github.com/minagawah/reveal-yourself)**  
 An example using Github Actions to automate cargo build for multiple binaries.  
@@ -74,7 +74,7 @@ Mapbox GL JS v2 experiment. Using no React.
 **[mini-actix-react-example](https://github.com/minagawah/mini-actix-react-example)**  
 [actix-web](https://actix.rs/) is an amazing, fast Rust web framework.
 Although I have more complicated configurations for my own website, ideas are about the same.  
-:pushpin: `actix-web` &middot; `rust` &middot; `heroku-buildpack-rust` &middot; `CORS`
+:pushpin: `Rust` &middot; `actix-web` &middot; `heroku-buildpack-rust` &middot; `CORS`
 
 **[webpack-webcomponent-example](https://github.com/minagawah/webpack-webcomponent-example)**  
 While this is old, it presents 3 basic examples of how you can implement web components.  
