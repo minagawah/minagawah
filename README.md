@@ -5,7 +5,7 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[mikaboshi](https://github.com/minagawah/mikaboshi)**  
 An astronomical library to calculate sun and moon orbits.  
-_STILL UNDER DEVELOPMENT_  
+_THIS LIBRARY IS STILL UNDER DEVELOPMENT_  
 :pushpin: `Rust`
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
