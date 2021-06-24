@@ -3,9 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
-**[mikaboshi](https://github.com/minagawah/mikaboshi)**  
-An astronomical library to calculate sun and moon orbits.  
-_THIS LIBRARY IS STILL UNDER DEVELOPMENT_  
+**[sowng](https://github.com/minagawah/sowng)**  
+A library for calculating sun's position.  
+`sowng` stands for `sun` in Belter language.  
+**THE LIBRARY IS UNDER DEVELOPMENT**  
 :pushpin: `Rust`
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
