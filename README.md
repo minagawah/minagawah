@@ -3,9 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
-**[sowng](https://github.com/minagawah/sowng)**  
+**[sowngwala](https://github.com/minagawah/sowngwala)**  
 A library for calculating sun's position.  
 `sowng` stands for `sun` in Belter language.  
+and `-walas` for `someone who is professional at`.  
 **THE LIBRARY IS UNDER DEVELOPMENT**  
 :pushpin: `Rust`
 
