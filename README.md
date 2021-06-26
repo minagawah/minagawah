@@ -5,8 +5,8 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[sowngwala](https://github.com/minagawah/sowngwala)**  
 A library for calculating sun's position.  
-`sowng` stands for `sun` in Belter language.  
-and `-walas` for `someone who is professional at`.  
+`sowng` stands for _"sun"_ in Belter language,  
+`wala` for _"one who is professional at"_.  
 **THE LIBRARY IS UNDER DEVELOPMENT**  
 :pushpin: `Rust`
 
