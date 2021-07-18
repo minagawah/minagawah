@@ -4,14 +4,14 @@ Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts 
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
 **[sowngwala](https://github.com/minagawah/sowngwala)**  
-A library for calculating sun's position.  
-`sowng` stands for "sun" in
+A library for calculating sun's position. `sowng` stands for "sun" in
 [Belter language](https://expanse.fandom.com/wiki/Belter_Creole) (from the movie "The Expanse"),
 and `wala` for "one who is professional at".  
 :pushpin: `Rust`
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
-Worker is a powerful tool, but when implementing the related Web APIs, it can easily drive you into a rabbit hole. With this sample app, I am attempting to demonstrate how you can implement related APIs.  
+Worker is a powerful tool, but when implementing the related Web APIs, it can easily drive you into a rabbit hole.  
+With this sample app, I am attempting to demonstrate how you can implement related APIs.  
 :pushpin: `Serrvice Worker` &middot; `Client API` &middot; `Cache API` &middot; `Vue 2`  
 [:eyes: View Demo](https://tokyo800.sakura.ne.jp/mina/sw/)  
 
