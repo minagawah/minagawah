@@ -4,9 +4,10 @@ Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts 
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
 **[sowngwala](https://github.com/minagawah/sowngwala)**  
-A library for calculating sun's position. `sowng` stands for "sun" in
-[Belter language](https://expanse.fandom.com/wiki/Belter_Creole) (from the movie "The Expanse"),
-and `wala` for "one who is professional at".  
+A library for calculating sun's position.  
+_"sowng"_ stands for "sun" in
+[Belter language](https://expanse.fandom.com/wiki/Belter_Creole) (from sci-fi movie "The Expanse").  
+_"wala"_ for _"one who is professional at"_.  
 :pushpin: `Rust`
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
