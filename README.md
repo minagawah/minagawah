@@ -10,6 +10,10 @@ _"sowng"_ stands for "sun" in
 _"wala"_ for _"one who is professional at"_.  
 :pushpin: `Rust`
 
+**[mikaboshi](https://github.com/minagawah/mikaboshi)**  
+`mikaboshi` uses `sowngwala` above for providing basic calculations for Chinese astrology, known as _Bazi_.  
+:pushpin: `Rust`
+
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
 Worker is a powerful tool, but when implementing the related Web APIs, it can easily drive you into a rabbit hole.  
 With this sample app, I am attempting to demonstrate how you can implement related APIs.  
