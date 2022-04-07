@@ -11,7 +11,7 @@ _"wala"_ for _"one who is professional at"_.
 :pushpin: `Rust`
 
 **[mikaboshi](https://github.com/minagawah/mikaboshi)**  
-A library for 风水 (Feng-Shui) providing basic Chinese astrological concepts such as 八卦 (Ba-Gua), 干支 (Gan-Zhi), 九星 (Jiu-Xing), 二十四节气 (Er-Shi-Si Jie-Qi), 二十四山向 (Er-Shi-Si Shan-Xiang), 生死衰旺 (Sheng-Si Shuai-Wang), etc.  
+A library for 風水 (风水) (Feng-Shui) providing basic Chinese astrological concepts such as 八卦 (Ba-Gua), 干支 (Gan-Zhi), 九星 (Jiu-Xing), 二十四节气 (Er-Shi-Si Jie-Qi), 二十四山向 (Er-Shi-Si Shan-Xiang), 生死衰旺 (Sheng-Si Shuai-Wang), etc.  
 :pushpin: `Rust`
 
 **[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
