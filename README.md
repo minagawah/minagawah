@@ -40,7 +40,7 @@ or [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).
 :pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 
-**[Why I hate TypeScript](https://github.com/minagawah/ts-setup-2021-library/#-why-typescript)**  
+**[Why I Don't Use TypeScript](https://gist.github.com/minagawah/ea360c9e979af4696512a70aa1f2fc20)**  
 JS is great without static types.  
 :pushpin: `TypeScript`
 
