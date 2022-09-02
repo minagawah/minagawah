@@ -3,6 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[flight-path](https://github.com/minagawah/flight-path)**  
+A demo app using wasm-pack-plugin, drawing flight information on Google Map.  
+:pushpin: `Rust`
+
 **[sowngwala](https://github.com/minagawah/sowngwala)**  
 A library for calculating sun's position.  
 _"sowng"_ stands for "sun" in
