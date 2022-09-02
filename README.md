@@ -5,7 +5,8 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[flight-path](https://github.com/minagawah/flight-path)**  
 A demo app using wasm-pack-plugin, drawing flight information on Google Map.  
-:pushpin: `Rust`
+:pushpin: `Rust`  
+[:eyes: View Demo](https://tokyo800.jp/mina/flight/)  
 
 **[sowngwala](https://github.com/minagawah/sowngwala)**  
 A library for calculating sun's position.  
