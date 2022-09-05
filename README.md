@@ -34,10 +34,6 @@ or [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).
 :pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 
-**[Why I Don't Use TypeScript](https://gist.github.com/minagawah/ea360c9e979af4696512a70aa1f2fc20)**  
-JS is great without static types.  
-:pushpin: `TypeScript`
-
 **[react-widget-airport](https://github.com/minagawah/react-widget-airport)**  
 Bundling a React app into UMD library, embedded into another app.
 You can pass arguments at initial startup,
@@ -56,15 +52,19 @@ With this sample app, I am attempting to demonstrate how you can implement relat
 :pushpin: `Serrvice Worker` &middot; `Client API` &middot; `Cache API` &middot; `Vue 2`  
 [:eyes: View Demo](https://tokyo800.sakura.ne.jp/mina/sw/)  
 
-**[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
-A template for `yew` projects. This is basically for my own use.  
-:pushpin: `yew` &middot; `Rust` &middot; `wasm-pack-plugin`  
-[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)  
-
 **[solid-setup-2021](https://github.com/minagawah/solid-setup-2021)**  
 A template for Solid.js projects. Always nice to have Tailwind.
 Basically, this is for my own use...  
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
+
+**[Why I Don't Use TypeScript](https://gist.github.com/minagawah/ea360c9e979af4696512a70aa1f2fc20)**  
+JS is great without static types.  
+:pushpin: `TypeScript`
+
+**[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
+A template for `yew` projects. This is basically for my own use.  
+:pushpin: `yew` &middot; `Rust` &middot; `wasm-pack-plugin`  
+[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)  
 
 **[wasm-pack-react-markdown-example](https://github.com/minagawah/wasm-pack-react-markdown-example)**  
 A React app using WASM for converting markdown contents into HTML.  
