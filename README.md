@@ -19,17 +19,6 @@ _"wala"_ for _"one who is professional at"_.
 A Rust library for 風水 (风水) (Feng-Shui) providing basic Chinese astrological concepts such as 八卦 (Ba-Gua), 干支 (Gan-Zhi), 九星 (Jiu-Xing), 二十四节气 (Er-Shi-Si Jie-Qi), 二十四山向 (Er-Shi-Si Shan-Xiang), 生死衰旺 (Sheng-Si Shuai-Wang), etc. When bundled into a WASM (WebAssembly) app, you could associate the library with your Javascript apps as well.    
 :pushpin: `Rust`
 
-**[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
-Worker is a powerful tool, but when implementing the related Web APIs, it can easily drive you into a rabbit hole.  
-With this sample app, I am attempting to demonstrate how you can implement related APIs.  
-:pushpin: `Serrvice Worker` &middot; `Client API` &middot; `Cache API` &middot; `Vue 2`  
-[:eyes: View Demo](https://tokyo800.sakura.ne.jp/mina/sw/)  
-
-**[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
-A template for `yew` projects. This is basically for my own use.  
-:pushpin: `yew` &middot; `Rust` &middot; `wasm-pack-plugin`  
-[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)  
-
 **[perlin-experiment](https://github.com/minagawah/perlin-experiment)**  
 This WASM app creates canvas elements for 2 divs, and runs animations.
 The WASM app is one, but handles 2 canvas elements.
@@ -60,6 +49,17 @@ or you can dynamically send/receive messages using SharedWorker.
 Just like the above `react-widget-airport`, but much simpler!  
 :pushpin: `React` &middot; `UMD library` &middot; `SharedWorker`  
 [:eyes: View Demo](http://tokyo800.jp/mina/react-widget-setup-2021/)  
+
+**[service-worker-experiment](https://github.com/minagawah/service-worker-experiment)**  
+Worker is a powerful tool, but when implementing the related Web APIs, it can easily drive you into a rabbit hole.  
+With this sample app, I am attempting to demonstrate how you can implement related APIs.  
+:pushpin: `Serrvice Worker` &middot; `Client API` &middot; `Cache API` &middot; `Vue 2`  
+[:eyes: View Demo](https://tokyo800.sakura.ne.jp/mina/sw/)  
+
+**[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
+A template for `yew` projects. This is basically for my own use.  
+:pushpin: `yew` &middot; `Rust` &middot; `wasm-pack-plugin`  
+[:eyes: View Demo](http://tokyo800.jp/mina/yew-setup-2021/)  
 
 **[solid-setup-2021](https://github.com/minagawah/solid-setup-2021)**  
 A template for Solid.js projects. Always nice to have Tailwind.
