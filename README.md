@@ -57,10 +57,6 @@ A template for Solid.js projects. Always nice to have Tailwind.
 Basically, this is for my own use...  
 :pushpin: `Solid.js` &middot; `Tailwind CSS`
 
-**[Why I Don't Use TypeScript](https://gist.github.com/minagawah/ea360c9e979af4696512a70aa1f2fc20)**  
-JS is great without static types.  
-:pushpin: `TypeScript`
-
 **[yew-setup-2021](https://github.com/minagawah/yew-setup-2021)**  
 A template for `yew` projects. This is basically for my own use.  
 :pushpin: `yew` &middot; `Rust` &middot; `wasm-pack-plugin`  
