@@ -3,6 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[latest-ts-setup-2022](https://github.com/minagawah/latest-ts-setup-2022)**  
+Let me have a boiler plate for Babel + TypeScript.  
+:pushpin: `Babel` &middot; `TypeScript` &middot; `React` &middot; `Emotion & Tailwind`
+
 **[flight-pack](https://github.com/minagawah/flight-pack)**  
 A demo app using wasm-pack-plugin, drawing flight information on Google Map.  
 :pushpin: `Rust`  
