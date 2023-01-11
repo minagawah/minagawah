@@ -6,8 +6,8 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 **[widgets-react-vs-solidjs](https://github.com/minagawah/widgets-react-vs-solidjs)**  
 Comparing widgets implemented with React vs SolidJS.  
 This is more about using Emotion CSS and Tailwind CSS for React and SolidJS apps.  
-:pushpin: `Web Components` &middot; `SolidJS` &middot; `React` &middot; `Emotion & Tailwind`
-[:eyes: View Demo]([https://tokyo800.jp/mina/flight/](https://tokyo800.jp/mina/widgets-react-vs-solidjs/))  
+:pushpin: `Web Components` &middot; `SolidJS` &middot; `React` &middot; `Emotion & Tailwind`  
+[:eyes: View Demo](https://tokyo800.jp/mina/widgets-react-vs-solidjs/)  
 
 **[latest-ts-setup-2022](https://github.com/minagawah/latest-ts-setup-2022)**  
 Let me have a boiler plate for Babel + TypeScript.  
