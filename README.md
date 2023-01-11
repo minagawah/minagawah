@@ -3,7 +3,7 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
-**[widgets-react-vs-solidjs]([https://github.com/minagawah/flight-pack](https://github.com/minagawah/widgets-react-vs-solidjs))**  
+**[widgets-react-vs-solidjs](https://github.com/minagawah/widgets-react-vs-solidjs)**  
 Comparing widgets implemented with React vs SolidJS.  
 This is more about using Emotion CSS and Tailwind CSS for React and SolidJS apps.  
 :pushpin: `Web Components` &middot; `SolidJS` &middot; `React` &middot; `Emotion & Tailwind`
