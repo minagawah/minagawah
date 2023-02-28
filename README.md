@@ -3,6 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[very-simple-wasm-2023](https://github.com/minagawah/very-simple-wasm-2023)**  
+A sample WASM app using `wasm-pack-plugin` prepared as a learning material.  
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`
+
 **[widgets-react-vs-solidjs](https://github.com/minagawah/widgets-react-vs-solidjs)**  
 Comparing widgets implemented with React vs SolidJS.  
 This is more about using Emotion CSS and Tailwind CSS for React and SolidJS apps.  
@@ -15,7 +19,7 @@ Let me have a boiler plate for Babel + TypeScript.
 
 **[flight-pack](https://github.com/minagawah/flight-pack)**  
 A demo app using wasm-pack-plugin, drawing flight information on Google Map.  
-:pushpin: `Rust`  
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`  
 [:eyes: View Demo](https://tokyo800.jp/mina/flight/)  
 
 **[sowngwala](https://github.com/minagawah/sowngwala)**  
