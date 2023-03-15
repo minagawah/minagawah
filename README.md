@@ -3,6 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[simple-i18n-solution](https://github.com/minagawah/simple-i18n-solution)**  
+A simplified version of what I have for my website for i18n localization.  
+:pushpin: `i18n` &middot; `NodeJS` &middot; `Javascript`
+
 **[very-simple-wasm-2023](https://github.com/minagawah/very-simple-wasm-2023)**  
 A sample WASM app using `wasm-pack-plugin` prepared as a learning material.  
 :pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`
