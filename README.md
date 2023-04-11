@@ -3,6 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[jsdoc-for-type-safety](https://github.com/minagawah/jsdoc-for-type-safety)**  
+Use JSDoc comments, and run a type-check using TypeScript.  
+:pushpin: `JSDoc` &middot; `TypeSript` &middot; `type-safety`
+
 **[simple-i18n-solution](https://github.com/minagawah/simple-i18n-solution)**  
 A simplified version of what I have for my website for i18n localization.  
 :pushpin: `i18n` &middot; `NodeJS` &middot; `Javascript`
