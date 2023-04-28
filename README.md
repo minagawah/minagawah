@@ -3,6 +3,10 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[resize](https://github.com/minagawah/resize)**  
+A very simple CLI program written in Rust for resizing an image with specified width.  
+:pushpin: `Rust` &middot; `image` &middot; `resize` &middot; `CLI`
+
 **[perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2)**  
 Another attempt in using Perlin noise. Last time, only the noise calculation was done in WASM, and canvas animations were done in JS. This time, everything is done in WASM. To better serve as an introductory WASM sample app, I made the codes as simple as possible.  
 Highlights: (1) Spawns a child process for animation, (2) Event listener for browser resize event, and (2) `debounce` to limit executions when resize happens.  
