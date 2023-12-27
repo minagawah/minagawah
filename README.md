@@ -5,7 +5,7 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[cloudflare-worker-d1-rust-example](https://github.com/minagawah/cloudflare-worker-d1-rust-example)**  
 A sample code for Cloudflare Worker written in Rust using D1.  
-:pushpin: `Cloudflare Worker` &middot; `Rust` &middot; `d1`
+:pushpin: `Cloudflare Worker` &middot; `D1` &middot; `Rust`
 
 **[resize](https://github.com/minagawah/resize)**  
 A very simple CLI program written in Rust for resizing an image with specified width.  
