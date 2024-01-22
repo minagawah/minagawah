@@ -3,6 +3,11 @@
 Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
+**[rawjs-generate](https://github.com/minagawah/rawjs-generate)**  
+A sample RawJS app with PUB/SUB messaging to generate/destroy DOM elements.  
+:pushpin: `RawJS` &middot; `JSDoc`
+[:eyes: View Demo](https://tokyo800.jp/mina/rawjs/)  
+
 **[cloudflare-workers-d1-rust-example](https://github.com/minagawah/cloudflare-workers-d1-rust-example)**  
 A sample code for Cloudflare Worker written in Rust using D1.  
 :pushpin: `Cloudflare Worker` &middot; `D1` &middot; `Rust`
