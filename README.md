@@ -5,7 +5,7 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[rawjs-generate](https://github.com/minagawah/rawjs-generate)**  
 A sample RawJS app with PUB/SUB messaging to generate/destroy DOM elements.  
-:pushpin: `RawJS` &middot; `JSDoc`
+:pushpin: `RawJS` &middot; `JSDoc`  
 [:eyes: View Demo](https://tokyo800.jp/mina/rawjs/)  
 
 **[cloudflare-workers-d1-rust-example](https://github.com/minagawah/cloudflare-workers-d1-rust-example)**  
