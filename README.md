@@ -22,10 +22,6 @@ Highlights: (1) Spawns a child process for animation, (2) Event listener for bro
 :pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`  
 [:eyes: View Demo](https://tokyo800.jp/mina/perlin-experiment-2/)  
 
-**[jsdoc-for-type-safety](https://github.com/minagawah/jsdoc-for-type-safety)**  
-Use JSDoc comments, and run a type-check using TypeScript.  
-:pushpin: `JSDoc` &middot; `TypeSript` &middot; `type-safety`
-
 **[simple-i18n-solution](https://github.com/minagawah/simple-i18n-solution)**  
 A simplified version of what I have for my website for i18n localization.  
 :pushpin: `i18n` &middot; `NodeJS` &middot; `Javascript`
