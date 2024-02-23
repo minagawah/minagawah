@@ -5,7 +5,7 @@ I usually create repos for my own benefit :avocado:, but I hope you will find th
 
 **[sowngwala-js](https://github.com/minagawah/sowngwala-js)**  
 A JS library for calculating the position of the sun which is ported from *[sowngwala](https://github.com/minagawah/sowngwala/)* written in Rust.  
-:pushpin: `Sun's Position` &middot; `Astronomy/Astrology` &middot; `JS`
+:pushpin: `Sun's Position` &middot; `Astrology` &middot; `Astronomy` &middot; `JS`
 
 **[rawjs-generate](https://github.com/minagawah/rawjs-generate)**  
 A sample RawJS app with PUB/SUB messaging to generate/destroy DOM elements.  
