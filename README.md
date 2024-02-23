@@ -4,7 +4,7 @@ Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts 
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
 **[sowngwala-js](https://github.com/minagawah/sowngwala-js)**  
-JS library for calculating the position of the sun. This is a JS port of [sowngwala](https://github.com/minagawah/sowngwala/).  
+A JS library for calculating the position of the sun which is ported from *[sowngwala](https://github.com/minagawah/sowngwala/)* written in Rust.  
 :pushpin: `Sun's Position` &middot; `Astronomy/Astrology` &middot; `JS`
 
 **[rawjs-generate](https://github.com/minagawah/rawjs-generate)**  
