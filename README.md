@@ -8,7 +8,7 @@ Samples to demonstrate applying SOLID principles to FP codes.
 :pushpin: `SOLID principles` &middot; `FP` &middot; `Crockford`  
 
 **[sowngwala-js](https://github.com/minagawah/sowngwala-js)** (2024)  
-JS library for calculating sun and moon's position ported from [another library of mine](https://github.com/minagawah/sowngwala/) written in Rust.  
+JS library for calculating sun and moon's position ported from [sowngwala](https://github.com/minagawah/sowngwala/) written in Rust.  
 :pushpin: `Sun's Position` &middot; `Astrology` &middot; `Astronomy` &middot; `JS`  
 [:eyes: View Demo](https://tokyo800.jp/mina/sowngwala/)  
 
