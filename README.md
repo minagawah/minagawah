@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
+Hi, this is Mina. I live in Japan :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:
 
 **[sowngwala-js](https://github.com/minagawah/sowngwala-js)**  
