@@ -55,6 +55,7 @@ or [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).
 
 **[rawjs-generate](https://github.com/minagawah/rawjs-generate)** (2024)  
 A sample RawJS app with PUB/SUB messaging to generate/destroy DOM elements.  
+Also, this is the best repo demonstrate the use of JSDoc.  
 :pushpin: `RawJS` &middot; `JSDoc`  
 [:eyes: View Demo](https://tokyo800.jp/mina/rawjs/)  
 
