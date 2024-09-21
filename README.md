@@ -87,10 +87,6 @@ With this sample app, I am attempting to demonstrate how you can implement relat
 :pushpin: `Serrvice Worker` &middot; `Client API` &middot; `Cache API` &middot; `Vue 2`  
 [:eyes: View Demo](https://tokyo800.sakura.ne.jp/mina/sw/)  
 
-**[csp-nonce-for-emotion.md](https://gist.github.com/minagawah/bc56b1dae8e3a967788c255a1032d1ae)**  
-Tricks to insert "nonce" for style tags in your HTML when using `csp-html-webpack-plugin` and `emotion`.  
-:pushpin: `csp-html-webpack-plugin` &middot; `emotion`
-
 **[mapbox-gl-js-v2-experiment](https://github.com/minagawah/mapbox-gl-js-v2-experiment)** (2020)  
 Mapbox GL JS v2 experiment. Using no React.  
 :pushpin: `Mapbox GL JS v2` &middot; `Tailwind CSS` &middot; `ramda`  
@@ -100,6 +96,10 @@ Mapbox GL JS v2 experiment. Using no React.
 While this is old, it presents 3 basic examples of how you can implement web components.  
 :pushpin: `Web Components`  
 [:eyes: View Demo](http://tokyo800.jp/minagawah/webpack-webcomponent-example/)  
+
+**[csp-nonce-for-emotion.md](https://gist.github.com/minagawah/bc56b1dae8e3a967788c255a1032d1ae)**  
+Tricks to insert "nonce" for style tags in your HTML when using `csp-html-webpack-plugin` and `emotion`.  
+:pushpin: `csp-html-webpack-plugin` &middot; `emotion`
 
 <!--
 **minagawah/minagawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
