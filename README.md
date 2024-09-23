@@ -56,9 +56,9 @@ or [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
 
 **[rawjs-generate](https://github.com/minagawah/rawjs-generate)** (2024)  
-A sample RawJS app with PUB/SUB messaging to generate/destroy DOM elements.  
-Also, this is the best repo demonstrate the use of JSDoc.  
-:pushpin: `RawJS` &middot; `JSDoc`  
+While this piece demonstrates the use of RawJS (framework newly came out) with pub/sub messaging,  
+it is also the best showcase of using JSDoc as an alternative to TypeScript (for type checking).  
+:pushpin: `RawJS` &middot; `JSDoc` &middot; `Type Check`  
 [:eyes: View Demo](https://tokyo800.jp/mina/rawjs/)  
 
 **[SVG Animations using SMIL](https://astralscience.com/tech/svganim)** (2024)  
