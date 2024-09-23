@@ -8,6 +8,16 @@ I am currently **looking for a job opening starting mid-February 2025 in HCMC, V
 Samples to demonstrate applying SOLID principles to FP codes.  
 :pushpin: `SOLID principles` &middot; `FP` &middot; `Crockford`  
 
+**[rust-wasm-canvas-example](https://github.com/minagawah/rust-wasm-canvas-example)** (2024)  
+The latest attempt for WASM app with Canvas API. The structure is much simpler than [perlin-experiment](https://github.com/minagawah/perlin-experiment) or [perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2).  
+Using `wasm-pack-plugin`. A good starter for using WASM for canvas animations.  
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`  
+
+**[very-simple-wasm-2023](https://github.com/minagawah/very-simple-wasm-2023)**  
+Probably, the simplest example to get started with WASM apps.  
+Other WASM samples contain canvas animation examples, but this one only tell you how to wire your JS app with WASM.    
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`
+
 **[sowngwala-js](https://github.com/minagawah/sowngwala-js)** (2024)  
 JS library for calculating sun and moon's position ported from [sowngwala](https://github.com/minagawah/sowngwala/) written in Rust.  
 :pushpin: `Sun's Position` &middot; `Astrology` &middot; `Astronomy` &middot; `JS`  
@@ -23,16 +33,6 @@ _"wala"_ for _"one who is professional at"_.
 **[mikaboshi](https://github.com/minagawah/mikaboshi)** (2021)  
 A Rust library for 風水 (风水) (Feng-Shui) providing basic Chinese astrological concepts such as 八卦 (Ba-Gua), 干支 (Gan-Zhi), 九星 (Jiu-Xing), 二十四节气 (Er-Shi-Si Jie-Qi), 二十四山向 (Er-Shi-Si Shan-Xiang), 生死衰旺 (Sheng-Si Shuai-Wang), etc. When bundled into a WASM (WebAssembly) app, you could associate the library with your Javascript apps as well.    
 :pushpin: `Rust`
-
-**[rust-wasm-canvas-example](https://github.com/minagawah/rust-wasm-canvas-example)** (2024)  
-The latest attempt for WASM app with Canvas API. The structure is much simpler than [perlin-experiment](https://github.com/minagawah/perlin-experiment) or [perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2).  
-Using `wasm-pack-plugin`. A good starter for using WASM for canvas animations.  
-:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`  
-
-**[very-simple-wasm-2023](https://github.com/minagawah/very-simple-wasm-2023)**  
-Probably, the simplest example to get started with WASM apps.  
-Other WASM samples contain canvas animation examples, but this one only tell you how to wire your JS app with WASM.    
-:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`
 
 **[perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2)** (2023)  
 Another attempt in using Perlin noise. Last time, only the noise calculation was done in WASM, and a canvas animation was done in JS. This time, everything is done in WASM. To better serve as an introductory WASM sample app, I made the codes as simple as possible.  
