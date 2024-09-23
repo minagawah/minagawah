@@ -30,7 +30,8 @@ Using `wasm-pack-plugin`. A good starter for using WASM for canvas animations.
 :pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`  
 
 **[very-simple-wasm-2023](https://github.com/minagawah/very-simple-wasm-2023)**  
-A sample WASM app using `wasm-pack-plugin` prepared as a learning material.  
+Probably, the simplest example to get started with WASM apps.  
+Other WASM samples contain canvas animation examples, but this one only tell you how to wire your JS app with WASM.    
 :pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`
 
 **[perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2)** (2023)  
