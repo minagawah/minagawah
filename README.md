@@ -4,20 +4,6 @@ Hi, this is Mina. I live in Japan :japan: :shinto_shrine: :sushi: and I practice
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:  
 I am currently **looking for a job opening starting mid-February 2025 in HCMC, Vietnam!**
 
-**[solid-principles-crockford](https://github.com/minagawah/solid-principles-crockford)** (2024)  
-Samples to demonstrate applying SOLID principles to FP codes.  
-:pushpin: `SOLID principles` &middot; `FP` &middot; `Crockford`  
-
-**[rust-wasm-canvas-example](https://github.com/minagawah/rust-wasm-canvas-example)** (2024)  
-The latest attempt for WASM app with Canvas API. The structure is much simpler than [perlin-experiment](https://github.com/minagawah/perlin-experiment) or [perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2).  
-Using `wasm-pack-plugin`. A good starter for using WASM for canvas animations.  
-:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`  
-
-**[very-simple-wasm-2023](https://github.com/minagawah/very-simple-wasm-2023)**  
-Probably, the simplest example to get started with WASM apps.  
-Other WASM samples contain canvas animation examples, but this one only tell you how to wire your JS app with WASM.    
-:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`
-
 **[sowngwala-js](https://github.com/minagawah/sowngwala-js)** (2024)  
 JS library for calculating sun and moon's position ported from [sowngwala](https://github.com/minagawah/sowngwala/) written in Rust.  
 :pushpin: `Sun's Position` &middot; `Astrology` &middot; `Astronomy` &middot; `JS`  
@@ -54,6 +40,20 @@ Or, see `rust-perlin-wasm-test-2` (which is even much older) for particles movin
 or [demo](http://tokyo800.jp/minagawah/rust-perlin-wasm-test-2/)).  
 :pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `Perlin Noise`  
 [:eyes: View Demo](http://tokyo800.jp/mina/perlin-experiment/)  
+
+**[rust-wasm-canvas-example](https://github.com/minagawah/rust-wasm-canvas-example)** (2024)  
+The latest attempt for WASM app with Canvas API. The structure is much simpler than [perlin-experiment](https://github.com/minagawah/perlin-experiment) or [perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2).  
+Using `wasm-pack-plugin`. A good starter for using WASM for canvas animations.  
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`  
+
+**[very-simple-wasm-2023](https://github.com/minagawah/very-simple-wasm-2023)**  
+Probably, the simplest example to get started with WASM apps.  
+Other WASM samples contain canvas animation examples, but this one only tell you how to wire your JS app with WASM.    
+:pushpin: `Rust` &middot; `wasm-pack` &middot; `wasm-bindgen` &middot; `js-sys` &middot; `web-sys` &middot; `wasm-pack-plugin`
+
+**[solid-principles-crockford](https://github.com/minagawah/solid-principles-crockford)** (2024)  
+Samples to demonstrate applying SOLID principles to FP codes.  
+:pushpin: `SOLID principles` &middot; `FP` &middot; `Crockford`  
 
 **[rawjs-generate](https://github.com/minagawah/rawjs-generate)** (2024)  
 While this piece demonstrates the use of RawJS (framework newly came out) with pub/sub messaging,  
