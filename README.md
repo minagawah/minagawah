@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-Hi, this is Mina. I'm a Japanese programmer living in Vietnam :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love JS :zap: and Rust! :crab:  
+Hi, this is MINA. I'm a Japanese developer living in Vietnam :japan: :shinto_shrine: :sushi: and I practice martial arts :octocat:. I love JS :zap: and Rust! :crab:  
 I usually create repos for my own benefit :avocado:, but I hope you will find them helpful to you as well! :seedling: :flamingo:  
+
+**[towngach](https://github.com/minagawah/towngach)** (2026)  
+A computational library for the **Purple-White Stars** (紫白星 / zi-bai-xing / tử bạch tinh) &mdash; the East-Asian astronomical, calendrical, and directional tradition &mdash; combining solar-term and celestial calculations with historically distinct methods for annual, monthly, daily, and hourly divination.  
+:pushpin: `Purple-White Stars` &middot; `East-Asian Divinations` &middot; `Astrology` &middot; `JS`
 
 **[sowngwala-js](https://github.com/minagawah/sowngwala-js)** (2024)  
 JS library for calculating sun and moon's position ported from [sowngwala](https://github.com/minagawah/sowngwala/) written in Rust.  
@@ -16,7 +20,7 @@ _"wala"_ for _"one who is professional at"_.
 :pushpin: `Rust`
 
 **[mikaboshi](https://github.com/minagawah/mikaboshi)** (2021)  
-A Rust library for 風水 (风水) (Feng-Shui) providing basic Chinese astrological concepts such as 八卦 (Ba-Gua), 干支 (Gan-Zhi), 九星 (Jiu-Xing), 二十四节气 (Er-Shi-Si Jie-Qi), 二十四山向 (Er-Shi-Si Shan-Xiang), 生死衰旺 (Sheng-Si Shuai-Wang), etc. When bundled into a WASM (WebAssembly) app, you could associate the library with your Javascript apps as well.    
+**IMPORTANT: Sorry. This is very old and DEPRECATED.** A Rust library for 風水 (风水) (Feng-Shui) providing basic Chinese astrological concepts such as 八卦 (Ba-Gua), 干支 (Gan-Zhi), 九星 (Jiu-Xing), 二十四节气 (Er-Shi-Si Jie-Qi), 二十四山向 (Er-Shi-Si Shan-Xiang), 生死衰旺 (Sheng-Si Shuai-Wang), etc. When bundled into a WASM (WebAssembly) app, you could associate the library with your Javascript apps as well.    
 :pushpin: `Rust`
 
 **[perlin-experiment-2](https://github.com/minagawah/perlin-experiment-2)** (2023)  
